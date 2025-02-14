@@ -16,7 +16,7 @@ let perPage = 6;
 let imgs = [
   {
     id: 1,
-    img: "/imgs/1.jpg",
+    img: "imgs/1.jpg",
     name: "عکس شماره 1",
     alt: "1.jpg",
     price: 75,
@@ -24,7 +24,7 @@ let imgs = [
   },
   {
     id: 2,
-    img: "/imgs/3.jpg",
+    img: "imgs/3.jpg",
     name: "عکس شماره 2",
     alt: "3.jpg",
     price: 15,
@@ -32,7 +32,7 @@ let imgs = [
   },
   {
     id: 3,
-    img: "/imgs/bg.jpg",
+    img: "imgs/bg.jpg",
     name: "عکس شماره 3",
     alt: "bg.jpg",
     price: 92,
@@ -40,7 +40,7 @@ let imgs = [
   },
   {
     id: 4,
-    img: "/imgs/city.jpg",
+    img: "imgs/city.jpg",
     name: "عکس شماره 4",
     alt: "city.jpg",
     price: 50,
@@ -48,7 +48,7 @@ let imgs = [
   },
   {
     id: 5,
-    img: "/imgs/free.jpg",
+    img: "imgs/free.jpg",
     name: "عکس شماره 5",
     alt: "free.jpg",
     price: 64,
@@ -56,7 +56,7 @@ let imgs = [
   },
   {
     id: 6,
-    img: "/imgs/Header_Background.jpg",
+    img: "imgs/Header_Background.jpg",
     name: "عکس شماره 6",
     alt: "Header_Background.jpg",
     price: 33,
@@ -64,7 +64,7 @@ let imgs = [
   },
   {
     id: 7,
-    img: "/imgs/image1.jpg",
+    img: "imgs/image1.jpg",
     name: "عکس شماره 7",
     alt: "image1.jpg",
     price: 90,
@@ -72,7 +72,7 @@ let imgs = [
   },
   {
     id: 8,
-    img: "/imgs/image2.jpg",
+    img: "imgs/image2.jpg",
     name: "عکس شماره 8",
     alt: "image2.jpg",
     price: 60,
@@ -80,7 +80,7 @@ let imgs = [
   },
   {
     id: 9,
-    img: "/imgs/image3.jpg",
+    img: "imgs/image3.jpg",
     name: "عکس شماره 9",
     alt: "image3.jpg",
     price: 20,
@@ -88,7 +88,7 @@ let imgs = [
   },
   {
     id: 10,
-    img: "/imgs/modal-background.png",
+    img: "imgs/modal-background.png",
     name: "عکس شماره 10",
     alt: "modal-background.png",
     price: 40,
@@ -96,7 +96,7 @@ let imgs = [
   },
   {
     id: 11,
-    img: "/imgs/page-bg.jpg",
+    img: "imgs/page-bg.jpg",
     name: "عکس شماره 11",
     alt: "page-bg.jpg",
     price: 100,
@@ -104,7 +104,7 @@ let imgs = [
   },
   {
     id: 12,
-    img: "/imgs/peakpx.jpg",
+    img: "imgs/peakpx.jpg",
     name: "عکس شماره 12",
     alt: "peakpx.jpg",
     price: 70,
@@ -112,7 +112,7 @@ let imgs = [
   },
   {
     id: 13,
-    img: "/imgs/sky.jpg",
+    img: "imgs/sky.jpg",
     name: "عکس شماره 13",
     alt: "sky.jpg",
     price: 30,
@@ -120,7 +120,7 @@ let imgs = [
   },
   {
     id: 14,
-    img: "/imgs/slides-1.jpg",
+    img: "imgs/slides-1.jpg",
     name: "عکس شماره 14",
     alt: "slides-1.jpg",
     price: 1,
